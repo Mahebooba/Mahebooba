@@ -1,0 +1,125 @@
+form{
+    width: 480px;
+    height: 350px;
+    margin-top: 75px;
+    margin-left: 260px;
+    border-style: solid;
+    
+    
+    
+}
+ h1{
+    margin-left: 180px;
+}
+.form .fields .row{
+    margin-left: 4px;
+    margin-bottom: 4px;
+}
+.form .fields .col{
+    margin-left: 4px;
+    margin-bottom: 4px;
+}
+.form .fields .col-auto{
+    margin-left: 6px;
+    width: 350px;
+    margin-bottom: 4px;
+}
+.form .fields .col-auto .form-control-plaintext{
+    width: 307.5px;
+}
+.form .fields .col-auto .form-control{
+
+    width: 283.5px;
+    margin-bottom: -50px;
+    margin-left: 1px;
+}
+.form .fields .gender{
+    margin-left: 5px;
+    width: auto;
+    margin-bottom: -15px;
+    margin-top: -1px;
+}
+.form .fields .college{
+    margin-left: 4px;
+    margin-top: -1px;
+    margin-bottom: -10px;
+}
+.form .fields .branch{
+    margin-left: 4px;
+    margin-bottom: -10px;
+}
+.form .fields .branch .form-control{
+    margin-left: 3px;
+}
+.form .fields .date{
+    margin-left: 4px;
+    margin-bottom: -10px;
+    
+}
+.form .fields .date .dat{
+    margin-left: 1px;
+    width: 125px;
+}
+.form .fields .date .dates{
+    margin-left: 1px;
+    width: 120px;
+}
+.form .fields .mobile{
+    margin-left: 4px;
+    margin-bottom: 15px;
+}
+.form .fields .mobile .form-controls{
+    margin-left: 4px;
+    margin-bottom: 15px;
+}
+.form .fields .adr{
+    margin-left: 4px;
+    margin-top: 10px;
+}
+.form .fields .adress{
+    margin-left: 4px;
+}
+.form .fields .resume{
+    margin-left: 4px;
+    margin-bottom: -2px;
+}
+.form .fields .button{
+    margin-left: 100px;
+    color:black;
+    margin-top: 15px;
+}
+.form .fields .reset{
+    margin-left: 4px;
+}
+.forms{
+    margin-left: 55px;
+}
+fieldset{
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.form-control{
+    margin-left: 55px;
+}
+.format{
+    margin-left: 6px;
+}
+.button{
+    margin-left: 120px;
+}
+.remember{
+    margin-left: 120px;
+}
+.forgot{
+    margin-left: 4px;
+}
+.remember .form-check-label{
+    margin-right: 8px;
+}
+.Signin{
+    margin-left: 180px;
+}
+.text-center{
+    margin-left: 150px;
+}

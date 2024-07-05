@@ -1,0 +1,88 @@
+body{
+    background-color: #282c34;
+}
+.form{
+    width: 380px;
+    height: 550px;
+    margin-top: 75px;
+    margin-left: 350px;
+    border-style: solid; 
+    background-color: #64e6edb1;
+    
+}
+.form h2{
+    margin-left: 75px;
+}
+.form .fields .fname{
+    margin-left: 4px;
+    margin-bottom: 4px;
+}
+.form .fields .lname{
+    margin-left: 4px;
+    margin-bottom: 4px;
+}
+.form .fields .mname{
+    margin-left: 4px;
+    margin-bottom: 4px;
+    
+}
+.form .fields .dname{
+    margin-left: 4px;
+    
+}
+.form .fields .mail{
+    margin-left: 4px;
+    width: 357px;
+    margin-bottom: 4px;
+}
+.form .fields  .pass{
+    margin-left:4px ;
+    width: 357px;
+}
+.form .fields .mgen{
+    border: 1px;
+}
+.form .fields .gender{
+    margin-left: 4px;
+    width: auto;
+    margin-bottom: -15px;
+}
+.form .fields .college{
+    margin-left: 4px;
+    
+    margin-bottom: -10px;
+}
+.form .fields .branch{
+    margin-left: 4px;
+    margin-bottom: -10px;
+}
+.form .fields .date{
+    margin-left: 4px;
+    margin-bottom: -10px;
+    
+}
+.form .fields .num{
+    margin-left: 4px;
+    margin-bottom: -10px;
+}
+.form .fields .mobile{
+    margin-left: 4px;
+    margin-bottom: 15px;
+}
+.form .fields .adr{
+    margin-left: 4px;
+    margin-top: 10px;
+}
+.form .fields .adress{
+    margin-left: 4px;
+}
+.form .fields .button{
+    margin-left: 100px;
+    color:black;
+    margin-top: 15px;
+}
+.form .fields .resume{
+    margin-left: 4px;
+    margin-bottom: -2px;
+}
+
